@@ -1,0 +1,12 @@
+{
+  "name": "part6-testing-deployment",
+  "version": "1.0.0",
+  "description": "Part 6: Advanced testing, environment variables and deployment",
+  "scripts": {
+    "start": "node src/api/app.js",
+    "test": "echo \"No test scripts configured\""
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
